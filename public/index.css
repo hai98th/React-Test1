@@ -1,0 +1,13 @@
+.red{
+    color: red;
+}
+.border-lime-1px{
+    border: lime 1px solid;
+    width: 200px;
+    margin-top: 10px;
+}
+.border-red-1px{
+    border: red 1px solid;
+    width: 200px;
+    margin-top: 10px;
+}
